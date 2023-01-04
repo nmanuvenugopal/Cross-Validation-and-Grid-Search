@@ -18,5 +18,8 @@ Important point dicussed here is
 6. We will be able to obtain the best estimator or best parameter value once the model is fitted on the training data. We will be also able to see all the possible combination executed by the model and their results.
 ![image](https://user-images.githubusercontent.com/99719105/210561604-cd85cad7-1c36-46fb-910c-5826bc40c47e.png)
 
+7. Reference : Python for Machine Learning & Data Science Masterclass (Udemy) - Jode Portilla
+
+
 
 
